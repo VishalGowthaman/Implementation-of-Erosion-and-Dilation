@@ -52,12 +52,7 @@ To implement Erosion and Dilation using Python and OpenCV.
 ## Output:
 
 ### Display the input Image
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![](https://github.com/VishalGowthaman/Implementation-of-Erosion-and-Dilation/blob/main/1.png)
 
 ### Display the Eroded Image
 <br>
